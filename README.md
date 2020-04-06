@@ -1,0 +1,2 @@
+# brickwrecker
+We were to ask to create a game for or project assignment for object oriented programming and i, Zam Izzatty Qaisara paired up with Nur farzana Athirah and finally decided to make a simple brickwrecker as our fchoice of game after discussing and changing our mind for several time. As students, there were a lot of obstacle for us to create this game but we tried to make some other initiative to gain our knowledge such as watching and doing tutorials from platforms such as google and youtube. As for that we managed to create our simple brick wrecker game.
